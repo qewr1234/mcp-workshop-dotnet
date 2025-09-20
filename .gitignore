@@ -487,3 +487,9 @@ $RECYCLE.BIN/
 .vscode/mcp.json
 .vscode/settings.json
 workshop/
+
+# allow Copilot instructions & workshop app
+!.github/
+!.github/copilot-instructions.md
+!workshop/
+!workshop/**
