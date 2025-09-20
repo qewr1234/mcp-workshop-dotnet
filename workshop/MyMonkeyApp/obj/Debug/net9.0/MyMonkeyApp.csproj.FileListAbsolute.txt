@@ -1,0 +1,15 @@
+/workspaces/mcp-workshop-dotnet/workshop/MyMonkeyApp/bin/Debug/net9.0/MyMonkeyApp
+/workspaces/mcp-workshop-dotnet/workshop/MyMonkeyApp/bin/Debug/net9.0/MyMonkeyApp.deps.json
+/workspaces/mcp-workshop-dotnet/workshop/MyMonkeyApp/bin/Debug/net9.0/MyMonkeyApp.runtimeconfig.json
+/workspaces/mcp-workshop-dotnet/workshop/MyMonkeyApp/bin/Debug/net9.0/MyMonkeyApp.dll
+/workspaces/mcp-workshop-dotnet/workshop/MyMonkeyApp/bin/Debug/net9.0/MyMonkeyApp.pdb
+/workspaces/mcp-workshop-dotnet/workshop/MyMonkeyApp/obj/Debug/net9.0/MyMonkeyApp.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/mcp-workshop-dotnet/workshop/MyMonkeyApp/obj/Debug/net9.0/MyMonkeyApp.AssemblyInfoInputs.cache
+/workspaces/mcp-workshop-dotnet/workshop/MyMonkeyApp/obj/Debug/net9.0/MyMonkeyApp.AssemblyInfo.cs
+/workspaces/mcp-workshop-dotnet/workshop/MyMonkeyApp/obj/Debug/net9.0/MyMonkeyApp.csproj.CoreCompileInputs.cache
+/workspaces/mcp-workshop-dotnet/workshop/MyMonkeyApp/obj/Debug/net9.0/MyMonkeyApp.sourcelink.json
+/workspaces/mcp-workshop-dotnet/workshop/MyMonkeyApp/obj/Debug/net9.0/MyMonkeyApp.dll
+/workspaces/mcp-workshop-dotnet/workshop/MyMonkeyApp/obj/Debug/net9.0/refint/MyMonkeyApp.dll
+/workspaces/mcp-workshop-dotnet/workshop/MyMonkeyApp/obj/Debug/net9.0/MyMonkeyApp.pdb
+/workspaces/mcp-workshop-dotnet/workshop/MyMonkeyApp/obj/Debug/net9.0/MyMonkeyApp.genruntimeconfig.cache
+/workspaces/mcp-workshop-dotnet/workshop/MyMonkeyApp/obj/Debug/net9.0/ref/MyMonkeyApp.dll
